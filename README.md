@@ -245,7 +245,6 @@ Please feel free to reach out to me for further discussion and collaboration opp
 </a>
 </div>
 <div align="center">
- <a href="https://github.com/topstar0505?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=topstar0505&theme=gotham&show_icons=true&count_private=true&hide_border=false" alt="@topstar0505's github-readme-stats"/></a>
 <a href="https://github.com/topstar0505?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=topstar0505&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="@topstar0505's github-readme-streak-stats"/></a>
 </div>
 <div align="center">
