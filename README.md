@@ -1,17 +1,17 @@
 <h1 align="center">😀 𝓗𝓲, 𝓘'𝓶 𝓒𝓻𝓪𝔃𝔂 𝓐𝓘 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻</h1>
 <h3 align="center">✩ 𝐀 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐅𝐮𝐥𝐥 𝐬𝐭𝐚𝐜𝐤 𝐀𝐈 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 ✩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=topstar0505&label=Profile%20views&color=0e75b6&style=flat" alt="topstar0505" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topstar0505" alt="topstar0505" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/luckydev" target="blank"><img src="https://img.shields.io/twitter/follow/luckydev?logo=twitter&style=for-the-badge" alt="luckydev" /></a> </p>
-
 - 𝐇𝐢,𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞. **Are you struggling with challenges such as implementing AI solutions, ensuring data security, navigating the complexities of large language models (LLMs), or optimizing automation processes for efficiency?**
 
 - 💬 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 : **I specialize in delivering cutting-edge AI solutions that enhance operational efficiency and user engagement. With over 5 years of experience in AI development, I have successfully collaborated with numerous clients to create innovative applications leveraging OpenAI technologies.**
 
 - 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 : **luckydev2350@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=topstar0505&label=Profile%20views&color=0e75b6&style=flat" alt="topstar0505" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topstar0505" alt="topstar0505" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/luckydev" target="blank"><img src="https://img.shields.io/twitter/follow/luckydev?logo=twitter&style=for-the-badge" alt="luckydev" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
