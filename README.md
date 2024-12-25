@@ -6,46 +6,32 @@
 Greetings! <br>
 I am a passionate and skilled AI Developer specializing in cutting-edge technologies such as OpenAI, Generative AI, and Large Language Models (LLMs). With a strong foundation in automation and Python programming, I am dedicated to creating innovative solutions that harness the power of artificial intelligence and machine learning. My work focuses on building intelligent applications and automating processes to enhance efficiency and deliver exceptional user experiences.
 
-My Skills:
+🛠️ 𝐂𝐨𝐫𝐞 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
+- Languages: Python, TypeScript, JavaScript, React Native, C, C++, C#
+- AI Frameworks: TensorFlow, PyTorch, Keras, JAX, FastAI
+- Backend: Django, Flask, FastAPI, Express.js, Laravel
+- Frontend: React, Vue.js, Next.js, AngularJS, PHP, TailwindCSS
+- Databases: PostgreSQL, MongoDB, Redis, MySQL, SQLite
+- Cloud Services: AWS (SageMaker, Rekognition), Google Cloud (Vertex AI, Vision AI), Azure (Cognitive Services)
 
-● AI Development: OpenAI, Generative AI, Large Language Models (LLMs), Automation<br/>
-● Programming Languages: Python, JavaScript, SQL<br/>
-● Machine Learning Frameworks: TensorFlow, PyTorch, Scikit-learn<br/>
-● Natural Language Processing: NLTK, SpaCy, Hugging Face Transformers, BERT, GPT-3, GPT-4<br/>
-● Model Training and Fine-Tuning: Hyperparameter Optimization, Transfer Learning<br/>
-● Data Processing: Pandas, NumPy, Dask<br/>
-● APIs and Integration: RESTful APIs, GraphQL, Webhooks<br/>
-● Cloud Services: AWS, Google Cloud Platform, Microsoft Azure
-● Version Control: Git, GitHub, GitLab<br/>
-● Deployment and Monitoring: Docker, Kubernetes, CI/CD, Prometheus, Grafana<br/>
+🧠 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐯𝐞 𝐀𝐈 & 𝐋𝐚𝐫𝐠𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐌𝐨𝐝𝐞𝐥𝐬
+- Models: GANs (Pix2Pix, DCGAN, CycleGAN, StyleGANV2), Diffusion Models (Stable Diffusion, DALL-E, Midjourney)
+- LLMs: GPT-3.5, GPT-4, GPT-4o, PaLM 2, BERT, T5, LLaMA
+- Tools: OpenAI API, Anthropic Claude API, Gemini, LangChain, LlamaIndex, Hugging Face Transformers
+- Techniques: Prompt Engineering, Few-shot Learning, RAG (Retrieval-Augmented Generation)
 
-Additional Skills:
+💬 𝐍𝐚𝐭𝐮𝐫𝐚𝐥 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠
+- Tasks: Text Classification, Named Entity Recognition, Sentiment Analysis, Machine Translation
+- Libraries: spaCy, NLTK, Gensim, fastText, TensorFlow Text
+- Techniques: Word Embeddings, Sequence-to-Sequence Models, Attention Mechanisms
 
-𝐂𝐡𝐚𝐭𝐛𝐨𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭:
-
-🌟 ChatGPT, GPT-3, GPT-4, OpenAI, Hugging Face<br/>
-🌟 Transformers, Dialogflow, Rasa, Botpress<br/>
-🌟 Conversational Design, Intent Recognition, Sentiment Analysis, Named Entity Recognition
-
-𝐈𝐦𝐚𝐠𝐞 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧:
-
-🌟 DALL-E, Stable Diffusion, DeepAI<br/>
-🌟 OpenCV, Keras, TensorFlow, PyTorch<br/>
-🌟 Image Processing, Computer Vision, Object Detection
-
-𝐂𝐨𝐧𝐯𝐞𝐫𝐬𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐀𝐈 / 𝐕𝐨𝐢𝐜𝐞 𝐁𝐨𝐭𝐬:
-
-🌟 Google Text-to-Speech, Microsoft Azure Speech, IBM Watson Text to Speech<br/>
-🌟 Speech Recognition, Voice Synthesis, Conversational Agents
-
-Additional Libraries and Frameworks:
-
-● Data Visualization: Matplotlib, Seaborn, Plotly<br/>
-● Automation Tools: Selenium, BeautifulSoup, Scrapy<br/>
-● Database Management: MySQL, MongoDB, SQLite<br/>
-● Data Engineering: Apache Spark, Apache Airflow<br/>
-● Testing and Debugging: pytest, Jupyter Notebooks, Postman<br/>
-● Project Management: Agile methodologies, JIRA, Trello<br/>
+🔍 𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐚𝐧𝐝 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬
+- Data Visualization: Matplotlib, Seaborn, Plotly<br/>
+- Automation Tools: Selenium, BeautifulSoup, Scrapy<br/>
+- Database Management: MySQL, MongoDB, SQLite<br/>
+- Data Engineering: Apache Spark, Apache Airflow<br/>
+- Testing and Debugging: pytest, Jupyter Notebooks, Postman<br/>
+- Project Management: Agile methodologies, JIRA, Trello<br/>
 
 With a comprehensive background in AI development, I have successfully delivered a variety of projects that address real-world challenges across industries such as healthcare, finance, e-commerce, and education. Leveraging my expertise in OpenAI and automation, I excel at developing intelligent applications and enhancing existing systems to improve user engagement and operational efficiency.
 
