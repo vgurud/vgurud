@@ -238,12 +238,6 @@ Please feel free to reach out to me for further discussion and collaboration opp
 
 ### Github Stats
 
-<div align="center"><a href="https://github.com/topstar0505?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=topstar0505&theme=onestar&no-frame=false" alt="topstar0505"/></a></div>
-<div align="center">
-<a href="https://github.com/topstar0505">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=topstar0505&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" alt="activity graph">
-</a>
-</div>
 <div align="center">
 <a href="https://github.com/topstar0505?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=topstar0505&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="@topstar0505's github-readme-streak-stats"/></a>
 </div>
