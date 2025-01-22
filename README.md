@@ -235,15 +235,6 @@ Please feel free to reach out to me for further discussion and collaboration opp
     </td>
   </tr>
 </table>
-
-### Github Stats
-
-<div align="center">
-<a href="https://github.com/vgurud?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=vgurud&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="@vgurud's github-readme-streak-stats"/></a>
-</div>
-<div align="center">
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=vgurud&theme=gotham&hide_border=false&show_icons=true&locale=en&layout=compact" alt="vgurud"/>
-</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
