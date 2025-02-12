@@ -36,8 +36,6 @@ I am a passionate and skilled AI Developer specializing in cutting-edge technolo
 With a comprehensive background in AI development, I have successfully delivered a variety of projects that address real-world challenges across industries such as healthcare, finance, e-commerce, and education. Leveraging my expertise in OpenAI and automation, I excel at developing intelligent applications and enhancing existing systems to improve user engagement and operational efficiency.
 
 Please feel free to reach out to me for further discussion and collaboration opportunities!
-
-𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 : luckydev2350@gmail.com
 </p>
 </div>
 
