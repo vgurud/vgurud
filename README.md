@@ -37,7 +37,6 @@ With a comprehensive background in AI development, I have successfully delivered
 
 Please feel free to reach out to me for further discussion and collaboration opportunities!
 
-𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 : luckydev2350@gmail.com
 </p>
 </div>
 
